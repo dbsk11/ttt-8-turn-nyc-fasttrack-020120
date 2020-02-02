@@ -27,7 +27,7 @@ def move(board, index, token)
 end
 
 
-def turn(board, index)
+def turn(board)
   puts "Please enter 1-9:"
   input = gets.strip
 end
